@@ -456,5 +456,85 @@ This project is developed for academic and research purposes.
 
 ````
 
+\## Sample Outputs
 
+
+
+\### System Architecture
+
+
+
+!\[System Architecture](images/architecture.png)
+
+
+
+\---
+
+
+
+\### Swagger UI Interface
+
+
+
+!\[Swagger UI](images/swagger\_ui.png)
+
+
+
+\---
+
+
+
+\### API Endpoint Interface
+
+
+
+!\[API Endpoint](images/api\_endpoint.png)
+
+
+
+\---
+
+
+
+\### Normal SoC Response
+
+
+
+!\[Normal SoC Response](images/soc\_normal\_response.png)
+
+
+
+\---
+
+
+
+\### Medium Urgency Response
+
+
+
+!\[Medium SoC Response](images/soc\_medium\_response.png)
+
+
+
+\---
+
+
+
+\### Critical SoC Response
+
+
+
+!\[Critical SoC Response](images/soc\_critical\_response.png)
+
+
+
+\---
+
+
+
+\### Final Recommendation Output
+
+
+
+!\[Final Recommendation](images/final\_recommendation.png)
 
