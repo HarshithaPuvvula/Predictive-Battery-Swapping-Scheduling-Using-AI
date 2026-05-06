@@ -1,5 +1,3 @@
-````markdown
-
 \# Predictive Battery Swapping Scheduling Using AI
 
 
